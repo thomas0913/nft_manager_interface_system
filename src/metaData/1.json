@@ -1,0 +1,39 @@
+{
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT3hoGESgUU3iSrmxeNxjEk9TWLszzAhf1kk3ZzfnLMN5/1.png",
+    "dna": "75e313cf2f54b7abcff09a7cab8c557510ab0c80",
+    "edition": 1,
+    "date": 1659295414124,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
