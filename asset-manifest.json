@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nft_manager_interface_system/static/css/main.9a1de76b.css",
-    "main.js": "/nft_manager_interface_system/static/js/main.71588cf2.js",
+    "main.js": "/nft_manager_interface_system/static/js/main.093313d4.js",
     "static/js/787.0da08f1c.chunk.js": "/nft_manager_interface_system/static/js/787.0da08f1c.chunk.js",
     "index.html": "/nft_manager_interface_system/index.html",
     "main.9a1de76b.css.map": "/nft_manager_interface_system/static/css/main.9a1de76b.css.map",
-    "main.71588cf2.js.map": "/nft_manager_interface_system/static/js/main.71588cf2.js.map",
+    "main.093313d4.js.map": "/nft_manager_interface_system/static/js/main.093313d4.js.map",
     "787.0da08f1c.chunk.js.map": "/nft_manager_interface_system/static/js/787.0da08f1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a1de76b.css",
-    "static/js/main.71588cf2.js"
+    "static/js/main.093313d4.js"
   ]
 }
